@@ -1,0 +1,22 @@
+{
+  "name": "itxiao6/table-store",
+  "homepage": "https://github.com/itxiao6/TableStore",
+  "description": "Aliyun Tablestore SDK for PHP",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "戒尺",
+      "homepage": "https://www.itxiao6.top"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Itxiao6\\TableStore": "src"
+    }
+  }
+}
